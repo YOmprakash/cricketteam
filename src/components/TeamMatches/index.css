@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.match-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-banner {
+  width: 100%;
+  max-width: 550px;
+}
+.team-match-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

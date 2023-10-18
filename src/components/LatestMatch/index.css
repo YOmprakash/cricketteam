@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.latest-match-card-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
